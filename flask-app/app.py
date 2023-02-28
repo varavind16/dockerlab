@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-    "https://lh3.googleusercontent.com/FAwG0i0L8Md_HeftKg_OUt0l0Ca92ZFSn-UmKTMsbDzrNEwjtb2puIRZMmAuWwdWIYpOIJFIc7S-GnGROl6AW4hG92PPHG73hJmwTk-L"
+    "https://lh3.googleusercontent.com/yLxCqh5-bVTMg8k11XPKwQPOEQydw0yRMOkhnmdZMkcU0WbpZvO2Vpgu3Y2Tjvb28FRdw3Yczu6iKVCcpqVszk1BA-D8vl8VNMR98_th"
 ]
 
 
